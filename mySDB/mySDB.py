@@ -15,7 +15,7 @@
 # telnet <HOST> <PORT_NUMBER>
 # Ex: telnet 127.0.0.1 6379
 #
-# Commnads
+# Commands
 # SET <key> <value>
 # Ex: SET test "This is a test."
 #
