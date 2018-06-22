@@ -7,8 +7,10 @@ mySDB : mySlowDataBase
 
 5-16-2018
 
-Running on localhost:
+## About mySDB:
+mySDB is a Telnet server based key-pair database. It is written in Python and only holds data in memory. The database uses multithreading and locks to allow many users (clients) to connect to one server at the same time. The servers also can talk to each ther so if many are started and connected, they act like a distributed database.
 
+## Running on localhost:
 ### Server
 ```
 python mySDB.py 
