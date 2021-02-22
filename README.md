@@ -1,5 +1,5 @@
 # mySDB
-mySDB => my Slow DataBase - because it is in Python
+mySDB => my Slow DataBase - because it's in Python
 
 M-Harris
 
